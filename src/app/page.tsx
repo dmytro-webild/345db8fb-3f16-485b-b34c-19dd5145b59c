@@ -57,9 +57,9 @@ export default function LandingPage() {
       ]}
       carouselItems={[
         {
-          id: "1",          imageSrc: "http://img.b2bpic.net/free-photo/co-workers-planning-strategy_1098-1144.jpg",          imageAlt: "Dubai luxury office"},
+          id: "1",          imageSrc: "http://img.b2bpic.net/free-photo/co-workers-planning-strategy_1098-1144.jpg?_wi=1",          imageAlt: "Dubai luxury office"},
         {
-          id: "2",          imageSrc: "http://img.b2bpic.net/free-photo/scenic-aerial-view-downtown-dubai-united-arab-emirates-with-skyscrapers-highways-colourful-travel-background_231208-7638.jpg",          imageAlt: "Dubai skyline"},
+          id: "2",          imageSrc: "http://img.b2bpic.net/free-photo/scenic-aerial-view-downtown-dubai-united-arab-emirates-with-skyscrapers-highways-colourful-travel-background_231208-7638.jpg?_wi=1",          imageAlt: "Dubai skyline"},
         {
           id: "3",          imageSrc: "http://img.b2bpic.net/free-photo/business-partners-handshake-international-corporate_53876-102614.jpg",          imageAlt: "Business meeting"},
         {
@@ -140,13 +140,13 @@ export default function LandingPage() {
             "Full Licensing",            "Corporate Banking",            "Office Solutions",            "PRO Services"],
           button: {
             text: "Select Professional"},
-          imageSrc: "http://img.b2bpic.net/free-photo/co-workers-planning-strategy_1098-1144.jpg",          imageAlt: "Business meeting in an office"},
+          imageSrc: "http://img.b2bpic.net/free-photo/co-workers-planning-strategy_1098-1144.jpg?_wi=2",          imageAlt: "Business meeting in an office"},
         {
           id: "enterprise",          title: "Enterprise",          price: "Custom",          period: "/quote",          features: [
             "Custom Structuring",            "Priority Support",            "Tax Planning",            "Legal Consulting"],
           button: {
             text: "Request Quote"},
-          imageSrc: "http://img.b2bpic.net/free-photo/scenic-aerial-view-downtown-dubai-united-arab-emirates-with-skyscrapers-highways-colourful-travel-background_231208-7638.jpg",          imageAlt: "Business meeting in an office"},
+          imageSrc: "http://img.b2bpic.net/free-photo/scenic-aerial-view-downtown-dubai-united-arab-emirates-with-skyscrapers-highways-colourful-travel-background_231208-7638.jpg?_wi=2",          imageAlt: "Business meeting in an office"},
       ]}
       title="Flexible Service Packages"
       description="Transparent pricing plans for every scale, from startup to multinational corporations."
