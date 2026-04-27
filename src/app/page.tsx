@@ -71,17 +71,17 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "1",
-          imageSrc: "http://img.b2bpic.net/free-photo/co-workers-planning-strategy_1098-1144.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/co-workers-planning-strategy_1098-1144.jpg?_wi=1",
           imageAlt: "Dubai luxury office",
         },
         {
           id: "2",
-          imageSrc: "http://img.b2bpic.net/free-photo/scenic-aerial-view-downtown-dubai-united-arab-emirates-with-skyscrapers-highways-colourful-travel-background_231208-7638.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/scenic-aerial-view-downtown-dubai-united-arab-emirates-with-skyscrapers-highways-colourful-travel-background_231208-7638.jpg?_wi=1",
           imageAlt: "Dubai skyline",
         },
         {
           id: "3",
-          imageSrc: "http://img.b2bpic.net/free-photo/business-partners-handshake-international-corporate_53876-102614.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-partners-handshake-international-corporate_53876-102614.jpg?_wi=1",
           imageAlt: "Business meeting",
         },
         {
@@ -146,7 +146,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/hudson-river-dusk-new-york-city_649448-5051.jpg",
             imageAlt: "Dubai business district",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/co-workers-planning-strategy_1098-1144.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/co-workers-planning-strategy_1098-1144.jpg?_wi=2",
           imageAlt: "Dubai luxury office",
         },
         {
@@ -160,7 +160,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/catered-table-asian-restaurant-chopsticks-soy-sauce_627829-6149.jpg",
             imageAlt: "business luxury desk",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/scenic-aerial-view-downtown-dubai-united-arab-emirates-with-skyscrapers-highways-colourful-travel-background_231208-7638.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/scenic-aerial-view-downtown-dubai-united-arab-emirates-with-skyscrapers-highways-colourful-travel-background_231208-7638.jpg?_wi=2",
           imageAlt: "Dubai luxury office",
         },
         {
@@ -174,7 +174,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/start-working-day_1098-15922.jpg",
             imageAlt: "signing business contract",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/business-partners-handshake-international-corporate_53876-102614.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-partners-handshake-international-corporate_53876-102614.jpg?_wi=2",
           imageAlt: "Dubai luxury office",
         },
       ]}
@@ -220,7 +220,7 @@ export default function LandingPage() {
           button: {
             text: "Select Professional",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/co-workers-planning-strategy_1098-1144.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/co-workers-planning-strategy_1098-1144.jpg?_wi=3",
           imageAlt: "Business meeting in an office",
         },
         {
@@ -237,7 +237,7 @@ export default function LandingPage() {
           button: {
             text: "Request Quote",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/scenic-aerial-view-downtown-dubai-united-arab-emirates-with-skyscrapers-highways-colourful-travel-background_231208-7638.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/scenic-aerial-view-downtown-dubai-united-arab-emirates-with-skyscrapers-highways-colourful-travel-background_231208-7638.jpg?_wi=3",
           imageAlt: "Business meeting in an office",
         },
       ]}
